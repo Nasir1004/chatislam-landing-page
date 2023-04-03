@@ -10,19 +10,6 @@
         >
           <div class="row tw-justify-center">
             <q-img
-              src="~assets/img/bashir.png"
-              class="tw-w-24 tw-h-24 tw-rounded-full tw-mt-10"
-            />
-          </div>
-          <div class="tw-text-center tw-font-medium tw-text-base tw-pt-2">
-            Bashir Isah Dodo
-          </div>
-        </div>
-        <div
-          class="tw-w-64 tw-h-56 card tw-border-2 tw-mx-2 tw-mt-4 sm:tw-mt-0 tw-border-primary-bg-color tw-rounded-2xl"
-        >
-          <div class="row tw-justify-center">
-            <q-img
               src="~assets/img/nasir.png"
               class="tw-w-24 tw-h-24 tw-rounded-full tw-mt-10"
             />
@@ -36,12 +23,12 @@
         >
           <div class="row tw-justify-center">
             <q-img
-              src="~assets/img/nasir.png"
+              src="~assets/img/bashir.png"
               class="tw-w-24 tw-h-24 tw-rounded-full tw-mt-10"
             />
           </div>
           <div class="tw-text-center tw-font-medium tw-text-base tw-pt-2">
-            Dahir Muhammad Dahir
+            Bashir Isah Dodo
           </div>
         </div>
         <div
@@ -49,7 +36,23 @@
         >
           <div class="row tw-justify-center">
             <q-img
-              src="~assets/img/nasir.png"
+              src="~assets/img/hajarah.jpg"
+              class="tw-w-24 tw-h-24 tw-rounded-full tw-mt-10"
+            />
+          </div>
+          <div class="tw-text-center tw-font-medium tw-text-base tw-pt-2">
+            Hajar Mousannif
+          </div>
+          <div class="tw-text-center tw-font-medium tw-text-base tw-pt-2">
+            asmkmlklk
+          </div>
+        </div>
+        <div
+          class="tw-w-64 tw-h-56 card tw-border-2 tw-mx-2 tw-mt-4 sm:tw-mt-0 tw-border-primary-bg-color tw-rounded-2xl"
+        >
+          <div class="row tw-justify-center">
+            <q-img
+              src="~assets/img/yusuf.jpg"
               class="tw-w-24 tw-h-24 tw-rounded-full tw-mt-10"
             />
           </div>
