@@ -68,6 +68,12 @@
           <div class="tw-text-center tw-font-medium tw-text-base tw-pt-2">
             Resercher @Microsoft
           </div>
+          <div class="tw-text-center tw-font-medium tw-text-base tw-pt-2">
+            Najeeb G. Abdulhamid
+          </div>
+          <div class="tw-text-center tw-font-medium tw-text-base tw-pt-2">
+            Resercher @Microsoft
+          </div>
         </div>
       </div>
       <div class="row tw-justify-center tw-mt-12">
