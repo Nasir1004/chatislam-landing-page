@@ -18,7 +18,7 @@
             Nasir Ibrahim Abba
           </div>
           <div class="tw-text-center tw-font-medium tw-text-base tw-pt-2">
-            asmkmlklk
+            Co-founder Eduvacity & founder ChatIslam
           </div>
         </div>
         <div
