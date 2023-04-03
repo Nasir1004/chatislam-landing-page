@@ -34,7 +34,7 @@
             Bashir Isah Dodo
           </div>
           <div class="tw-text-center tw-font-medium tw-text-base tw-pt-2">
-            asmkmlklk
+            PhD, Ai resercher & Co-founder ChatIslam
           </div>
         </div>
         <div
@@ -50,7 +50,7 @@
             Hajar Mousannif
           </div>
           <div class="tw-text-center tw-font-medium tw-text-base tw-pt-2">
-            asmkmlklk
+            Associate Professor | AI, ML & TinyML Advocate |
           </div>
         </div>
         <div
@@ -58,15 +58,15 @@
         >
           <div class="row tw-justify-center">
             <q-img
-              src="~assets/img/yusuf.jpg"
+              src="~assets/img/najib.jpg"
               class="tw-w-24 tw-h-24 tw-rounded-full tw-mt-10"
             />
           </div>
           <div class="tw-text-center tw-font-medium tw-text-base tw-pt-2">
-            Nasir Ibrahim Abba
+            Najeeb G. Abdulhamid
           </div>
           <div class="tw-text-center tw-font-medium tw-text-base tw-pt-2">
-            asmkmlklk
+            Resercher @Microsoft
           </div>
         </div>
       </div>
