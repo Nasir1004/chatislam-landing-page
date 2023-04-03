@@ -2,7 +2,7 @@
   <div class="tw-mt-12 sm:tw-mt-24">
     <div>
       <div class="title tw-text-2xl sm:tw-text-3xl tw-text-center">
-        Meet The Islamic Scholars Behind It
+        Meet our Islamic Scholars Team
       </div>
       <div class="row tw-justify-center tw-mt-8">
         <div
